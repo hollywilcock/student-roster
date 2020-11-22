@@ -1,0 +1,5 @@
+- Name: Holly Wilcock
+- Likes: Sewing, Cooking & Rugby League
+- Dislikes: Beans & Ketchup
+- Favourite Quote: Today you are you, that is truer than true. There is no one in the world that is youer than you! - Dr Seuss
+- GitHub Profile URL: https://github.com/hollywilcock
